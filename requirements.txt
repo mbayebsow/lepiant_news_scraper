@@ -1,0 +1,5 @@
+pip
+beautifulsoup4
+python-crontab
+requests~=2.32.3
+SQLAlchemy~=2.0.32
